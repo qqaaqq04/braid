@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+docs: update view-results-in-terminal.md (#66)
