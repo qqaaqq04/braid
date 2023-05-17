@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
