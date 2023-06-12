@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
