@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
