@@ -1,1 +1,1 @@
-fix predict with class filter
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
