@@ -1,1 +1,1 @@
-added badges (#45)
+Faster batch same_shapes (#8851)
