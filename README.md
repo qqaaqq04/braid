@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
