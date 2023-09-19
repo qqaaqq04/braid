@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add visuals in guides/distance-calculation.md (#7876)
