@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
