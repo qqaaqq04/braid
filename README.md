@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix OBB xywh-angle concatenation bug (#7404)
