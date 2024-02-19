@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
