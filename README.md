@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Update Docs Home and Neural Magic pages (#7243)
