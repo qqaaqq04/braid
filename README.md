@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Clean up unused imgsz (#7771)
