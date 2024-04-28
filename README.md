@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add integrations/gradio Docs page (#7935)
