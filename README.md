@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update the heatmap module code + docs (#7045)
