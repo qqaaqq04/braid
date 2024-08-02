@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
