@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Rename model_id to model.id (#8447)
