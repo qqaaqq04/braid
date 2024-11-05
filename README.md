@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Replace onnx2tf usage from CLI to Python (#8429)
